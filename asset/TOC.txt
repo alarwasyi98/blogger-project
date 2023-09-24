@@ -1,0 +1,43 @@
+1. [Introduction](#introduction)
+2. [Table of Contents](#table-of-contents)
+3. [Website Overview](#website-overview)
+    - [Website Purpose](#website-purpose)
+    - [Target Audience](#target-audience)
+4. [Website Structure](#website-structure)
+    - [Homepage](#homepage)
+    - [About Us](#about-us)
+    - [Products](#products)
+    - [Contact](#contact)
+5. [Functionalities](#functionalities)
+    - [Navigation Menu](#navigation-menu)
+    - [Responsive Design](#responsive-design)
+    - [Contact Form](#contact-form)
+6. [Technical Details](#technical-details)
+    - [Technologies Used](#technologies-used)
+    - [File Structure](#file-structure)
+7. [Deployment](#deployment)
+    - [Hosting](#hosting)
+    - [Domain](#domain)
+8. [Testing](#testing)
+    - [Test Cases](#test-cases)
+9. [Future Enhancements](#future-enhancements)
+
+
+<h3>File Structure</h3>
+
+example-website/
+|-- index.html
+|-- about.html
+|-- products.html
+|-- contact.html
+|-- css/
+|   |-- style.css
+|-- js/
+|   |-- script.js
+|-- img/
+|   |-- logo.png
+|   |-- product1.jpg
+|   |-- product2.jpg
+|-- docs/
+|   |-- documentation.pdf
+```
